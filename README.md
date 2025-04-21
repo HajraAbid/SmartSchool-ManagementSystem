@@ -1,49 +1,49 @@
 # 🎓 Smart School Management System
 
-This is a feature-rich **School Management System** designed for practical use in schools. It handles everything from student records to staff management, finance tracking, SMS notifications, and reporting.
+A full-featured **School Management System** developed for **Alhira Public School** to streamline operations such as student/staff records, finances, reporting, and communication.
 
 ## 🚀 Key Features
 
 - 👨‍🎓 **Student Management** – enrollments, records, class-wise data  
 - 👩‍🏫 **Staff Management** – employee records and designations  
-- 💰 **Cash Flow Monitoring** – income, expenses, and ledger  
-- 📈 **Graphical Insights** – visual representation of school metrics  
-- 📨 **SMS Notifications** – communicate directly with students/parents  
-- 📄 **Crystal Reports** – generate structured, printable reports  
-- ⚙️ **Setup Configuration** – full control over modules and access  
+- 💰 **Cash Flow Monitoring** – income, expenses, and ledgers  
+- 📈 **Graphical Insights** – visual dashboards of school metrics  
+- 📨 **SMS Notifications** – send messages directly to parents/students  
+- 📄 **Crystal Reports** – structured, printable reports  
+- ⚙️ **Setup Configuration** – complete module control  
 
 ## 🧰 Tech Stack
 
 - **Backend**: SQL Server 2013  
-- **Frontend**: C# with Windows Forms (Visual Studio)  
-- **Reporting**: Crystal Reports  
+- **Frontend**: C# using Windows Forms (Visual Studio)  
+- **Reports**: Crystal Reports  
 
-## 📦 Recommended Folder Uploads
+## 📦 Recommended Uploads
 
-> Only upload essential files:
+> Upload only essential parts of your project:
 - `*.cs` source files  
-- `.sln`, `.csproj` (solution/project config)  
-- `Resources/` folder (for images, logos)  
+- `.sln`, `.csproj`  
+- `Resources/` (for images/icons)  
 - Crystal Report files (`*.rpt`)  
-- `README.md`  
-- Optional: `Docs/` folder with usage instructions or screenshots  
+- `README.md`, optional `Docs/` folder with guides/screenshots  
 
-🚫 **Avoid uploading** `bin/`, `obj/`, and `.user` files.
+🚫 **Exclude**: `bin/`, `obj/`, `.user` files
 
 ---
 
 ## 👤 Author
 
 Developed by **Hajra Abid**  
+📍 For **Alhira Public School**  
 🗓️ **Year of Development**: 2021
 
 ## 🪪 License
 
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software with proper attribution.
+You are free to use, modify, and distribute it with appropriate credit.
 
 ---
 
 ## 📌 Note
 
-This system was developed for real-world use by a school, offering reliability, ease of access, and customizable modules tailored to institutional needs.
+Built with real educational environments in mind, this system is intended to provide reliable, efficient, and user-friendly school administration tools tailored to institutional workflows.
